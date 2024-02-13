@@ -1,0 +1,22 @@
+nav {
+  padding: 5px 40px;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+.logo {
+  width: 80px;
+}
+.logo img {
+  width: 100%;
+}
+.menuLinks {
+  display: flex;
+  gap: 30px;
+}
